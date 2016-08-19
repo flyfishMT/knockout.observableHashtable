@@ -1,5 +1,5 @@
 ko.observableHashtable = function (initialValues) {
-    initialValues = initialValues || [];
+    initialValues = initialValues || {};
 
     if (typeof initialValues != 'object') 
 		throw new Error("The argument passed when initializing an observable hashtable must be an object, or null, or undefined.");
