@@ -1,0 +1,23 @@
+{
+  "name": "knockout.observableHashtable",
+  "authors": [
+    "flyfishMT <flyfishMT69@yahoo.com>"
+  ],
+  "description": "Observable hashtable (dictionary) for use with knockout.js",
+  "main": "src/knockout.observableHashtable.js",
+  "keywords": [
+    "knockout"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/flyfishMT/knockout.observableHashtable",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "^3.4.0"
+  }
+}

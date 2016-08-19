@@ -1,0 +1,7 @@
+{
+  "name": "knockout.observableHashtable",
+  "dependencies": {},
+  "globalDependencies": {
+    "knockout": "registry:dt/knockout#0.0.0+20160512130947"
+  }
+}
