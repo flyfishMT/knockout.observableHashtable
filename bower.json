@@ -1,7 +1,7 @@
 {
   "name": "knockout.observableHashtable",
   "authors": [
-    "flyfishMT <flyfishMT69@yahoo.com>"
+    "flyfishMT"
   ],
   "description": "Observable hashtable (dictionary) for use with knockout.js",
   "main": "src/knockout.observableHashtable.js",
@@ -15,7 +15,8 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "typings"
   ],
   "dependencies": {
     "knockout": "^3.4.0"
